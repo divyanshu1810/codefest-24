@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032804601038",
+    "project_id": "clocktantra",
+    "storage_bucket": "clocktantra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032804601038:android:2353098b30f94a09b5949f",
+        "android_client_info": {
+          "package_name": "com.example.authenticheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYq1c3TgFxdHQBkWctf41Uy3_jJbROSbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
